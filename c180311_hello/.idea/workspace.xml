@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b7b5e5c-00f8-475a-9295-b67c3134dda1" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/c180311_hello.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/net.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/cc/test/App.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/cc/test/App1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/cc/test/AppTest.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/cc/test/App.class" />
       <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/cc/test/App1.class" />
       <change beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/cc/test/AppTest.class" />
@@ -347,12 +336,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520737441475</updated>
-      <workItem from="1520737445116" duration="4718000" />
+      <workItem from="1520737445116" duration="4771000" />
     </task>
+    <task id="LOCAL-00001" summary="hello java编程思想">
+      <created>1520765487361</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1520765487361</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4718000" />
+    <option name="totallyTimeSpent" value="4771000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="74" y="1" width="1855" height="990" extended-state="0" />
@@ -391,6 +388,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hello java编程思想" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello java编程思想" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
